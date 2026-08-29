@@ -7,3 +7,15 @@ This repository contains my solutions to LeetCode problems. I use it to practice
 I will continue updating this repository with new solutions as I solve more problems.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/monishasundaram/Leet-code/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/monishasundaram/Leet-code/tree/master/0039-combination-sum) |
+<!---LeetCode Topics End-->
