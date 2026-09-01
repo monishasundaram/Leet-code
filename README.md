@@ -24,4 +24,5 @@ Happy Coding! 🚀
 | [0181-employees-earning-more-than-their-managers](https://github.com/monishasundaram/Leet-code/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0595-big-countries](https://github.com/monishasundaram/Leet-code/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/monishasundaram/Leet-code/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/monishasundaram/Leet-code/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
