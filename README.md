@@ -14,6 +14,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/monishasundaram/Leet-code/tree/master/0039-combination-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monishasundaram/Leet-code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
 |  |
 | ------- |
@@ -25,4 +26,8 @@ Happy Coding! 🚀
 | [0595-big-countries](https://github.com/monishasundaram/Leet-code/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/monishasundaram/Leet-code/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/monishasundaram/Leet-code/tree/master/0619-biggest-single-number) |
+## Math
+|  |
+| ------- |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monishasundaram/Leet-code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
