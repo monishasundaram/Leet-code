@@ -18,6 +18,7 @@ Happy Coding! 🚀
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monishasundaram/Leet-code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishasundaram/Leet-code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3875-construct-uniform-parity-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/monishasundaram/Leet-code/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,4 +51,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/monishasundaram/Leet-code/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/monishasundaram/Leet-code/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
