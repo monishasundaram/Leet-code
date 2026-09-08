@@ -35,6 +35,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/monishasundaram/Leet-code/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/monishasundaram/Leet-code/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/monishasundaram/Leet-code/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/monishasundaram/Leet-code/tree/master/1837-sum-of-digits-in-base-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monishasundaram/Leet-code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -69,4 +70,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/monishasundaram/Leet-code/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/monishasundaram/Leet-code/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/monishasundaram/Leet-code/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/monishasundaram/Leet-code/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
