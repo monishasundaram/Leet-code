@@ -36,6 +36,7 @@ Happy Coding! 🚀
 | ------- |
 | [0202-happy-number](https://github.com/monishasundaram/Leet-code/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/monishasundaram/Leet-code/tree/master/0509-fibonacci-number) |
+| [1323-maximum-69-number](https://github.com/monishasundaram/Leet-code/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/monishasundaram/Leet-code/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/monishasundaram/Leet-code/tree/master/1837-sum-of-digits-in-base-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monishasundaram/Leet-code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -95,4 +96,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/monishasundaram/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/monishasundaram/Leet-code/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
