@@ -43,6 +43,7 @@ Happy Coding! 🚀
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/monishasundaram/Leet-code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/monishasundaram/Leet-code/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/monishasundaram/Leet-code/tree/master/1837-sum-of-digits-in-base-k) |
+| [1925-count-square-sum-triples](https://github.com/monishasundaram/Leet-code/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monishasundaram/Leet-code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/monishasundaram/Leet-code/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishasundaram/Leet-code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -133,4 +134,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/monishasundaram/Leet-code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/monishasundaram/Leet-code/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
