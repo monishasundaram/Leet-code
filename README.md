@@ -83,11 +83,13 @@ Happy Coding! 🚀
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/monishasundaram/Leet-code/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/monishasundaram/Leet-code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3498-reverse-degree-of-a-string](https://github.com/monishasundaram/Leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/monishasundaram/Leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/monishasundaram/Leet-code/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3498-reverse-degree-of-a-string](https://github.com/monishasundaram/Leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
