@@ -21,6 +21,7 @@ Happy Coding! 🚀
 | [3232-find-if-digit-game-can-be-won](https://github.com/monishasundaram/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishasundaram/Leet-code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/monishasundaram/Leet-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/monishasundaram/Leet-code/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
@@ -55,6 +56,7 @@ Happy Coding! 🚀
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/monishasundaram/Leet-code/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishasundaram/Leet-code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/monishasundaram/Leet-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/monishasundaram/Leet-code/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/monishasundaram/Leet-code/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3875-construct-uniform-parity-array-i) |
@@ -98,6 +100,7 @@ Happy Coding! 🚀
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishasundaram/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/monishasundaram/Leet-code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/monishasundaram/Leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
