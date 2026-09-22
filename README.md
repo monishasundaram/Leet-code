@@ -17,6 +17,7 @@ Happy Coding! 🚀
 | [0039-combination-sum](https://github.com/monishasundaram/Leet-code/tree/master/0039-combination-sum) |
 | [0384-shuffle-an-array](https://github.com/monishasundaram/Leet-code/tree/master/0384-shuffle-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishasundaram/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/monishasundaram/Leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monishasundaram/Leet-code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/monishasundaram/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishasundaram/Leet-code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -68,6 +69,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/monishasundaram/Leet-code/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/monishasundaram/Leet-code/tree/master/0202-happy-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishasundaram/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/monishasundaram/Leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishasundaram/Leet-code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -92,6 +94,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/monishasundaram/Leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/monishasundaram/Leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/monishasundaram/Leet-code/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/monishasundaram/Leet-code/tree/master/3498-reverse-degree-of-a-string) |
@@ -172,4 +175,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/monishasundaram/Leet-code/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/monishasundaram/Leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
+## Counting
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/monishasundaram/Leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
