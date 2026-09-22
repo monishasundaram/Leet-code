@@ -37,6 +37,7 @@ Happy Coding! 🚀
 | [0619-biggest-single-number](https://github.com/monishasundaram/Leet-code/tree/master/0619-biggest-single-number) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/monishasundaram/Leet-code/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/monishasundaram/Leet-code/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/monishasundaram/Leet-code/tree/master/1795-rearrange-products-table) |
 ## Math
 |  |
 | ------- |
