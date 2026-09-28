@@ -44,6 +44,7 @@ Happy Coding! 🚀
 | [1741-find-total-time-spent-by-each-employee](https://github.com/monishasundaram/Leet-code/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/monishasundaram/Leet-code/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/monishasundaram/Leet-code/tree/master/1795-rearrange-products-table) |
+| [1907-count-salary-categories](https://github.com/monishasundaram/Leet-code/tree/master/1907-count-salary-categories) |
 | [1965-employees-with-missing-information](https://github.com/monishasundaram/Leet-code/tree/master/1965-employees-with-missing-information) |
 ## Math
 |  |
