@@ -30,6 +30,7 @@ Happy Coding! 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/monishasundaram/Leet-code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/monishasundaram/Leet-code/tree/master/0039-combination-sum) |
 ## Database
 |  |
@@ -106,6 +107,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/monishasundaram/Leet-code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/monishasundaram/Leet-code/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/monishasundaram/Leet-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/monishasundaram/Leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/monishasundaram/Leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -115,6 +117,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/monishasundaram/Leet-code/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/monishasundaram/Leet-code/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishasundaram/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/monishasundaram/Leet-code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -210,6 +213,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/monishasundaram/Leet-code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/monishasundaram/Leet-code/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/monishasundaram/Leet-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/monishasundaram/Leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monishasundaram/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
