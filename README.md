@@ -86,6 +86,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/monishasundaram/Leet-code/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/monishasundaram/Leet-code/tree/master/0202-happy-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/monishasundaram/Leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Floyd's Cycle Finding Algorithm
@@ -194,6 +195,7 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/monishasundaram/Leet-code/tree/master/0148-sort-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/monishasundaram/Leet-code/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -229,4 +231,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monishasundaram/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/monishasundaram/Leet-code/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/monishasundaram/Leet-code/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/monishasundaram/Leet-code/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
