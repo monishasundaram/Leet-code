@@ -53,6 +53,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/monishasundaram/Leet-code/tree/master/0060-permutation-sequence) |
 | [0202-happy-number](https://github.com/monishasundaram/Leet-code/tree/master/0202-happy-number) |
 | [0384-shuffle-an-array](https://github.com/monishasundaram/Leet-code/tree/master/0384-shuffle-an-array) |
 | [0509-fibonacci-number](https://github.com/monishasundaram/Leet-code/tree/master/0509-fibonacci-number) |
@@ -131,6 +132,7 @@ Happy Coding! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/monishasundaram/Leet-code/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/monishasundaram/Leet-code/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
