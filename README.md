@@ -21,6 +21,7 @@ Happy Coding! 🚀
 | [1684-count-the-number-of-consistent-strings](https://github.com/monishasundaram/Leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monishasundaram/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/monishasundaram/Leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/monishasundaram/Leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monishasundaram/Leet-code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/monishasundaram/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishasundaram/Leet-code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -188,6 +189,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/monishasundaram/Leet-code/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/monishasundaram/Leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
