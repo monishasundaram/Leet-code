@@ -54,6 +54,7 @@ Happy Coding! 🚀
 | [0620-not-boring-movies](https://github.com/monishasundaram/Leet-code/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/monishasundaram/Leet-code/tree/master/1068-product-sales-analysis-i) |
 | [1393-capital-gainloss](https://github.com/monishasundaram/Leet-code/tree/master/1393-capital-gainloss) |
+| [1484-group-sold-products-by-the-date](https://github.com/monishasundaram/Leet-code/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/monishasundaram/Leet-code/tree/master/1587-bank-account-summary-ii) |
 | [1729-find-followers-count](https://github.com/monishasundaram/Leet-code/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/monishasundaram/Leet-code/tree/master/1741-find-total-time-spent-by-each-employee) |
