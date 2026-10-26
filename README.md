@@ -32,6 +32,7 @@ Happy Coding! 🚀
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/monishasundaram/Leet-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/monishasundaram/Leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/monishasundaram/Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/monishasundaram/Leet-code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/monishasundaram/Leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3875-construct-uniform-parity-array-i) |
@@ -169,6 +170,7 @@ Happy Coding! 🚀
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/monishasundaram/Leet-code/tree/master/0617-merge-two-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/monishasundaram/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/monishasundaram/Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/monishasundaram/Leet-code/tree/master/0617-merge-two-binary-trees) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/monishasundaram/Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Geometry
 |  |
 | ------- |
@@ -265,6 +268,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monishasundaram/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/monishasundaram/Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -295,4 +299,8 @@ Happy Coding! 🚀
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/monishasundaram/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/monishasundaram/Leet-code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/monishasundaram/Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
