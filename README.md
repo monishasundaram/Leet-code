@@ -16,6 +16,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/monishasundaram/Leet-code/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/monishasundaram/Leet-code/tree/master/0039-combination-sum) |
 | [0384-shuffle-an-array](https://github.com/monishasundaram/Leet-code/tree/master/0384-shuffle-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/monishasundaram/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishasundaram/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monishasundaram/Leet-code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/monishasundaram/Leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -73,6 +74,7 @@ Happy Coding! 🚀
 | [0060-permutation-sequence](https://github.com/monishasundaram/Leet-code/tree/master/0060-permutation-sequence) |
 | [0202-happy-number](https://github.com/monishasundaram/Leet-code/tree/master/0202-happy-number) |
 | [0384-shuffle-an-array](https://github.com/monishasundaram/Leet-code/tree/master/0384-shuffle-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/monishasundaram/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/monishasundaram/Leet-code/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/monishasundaram/Leet-code/tree/master/0836-rectangle-overlap) |
 | [1323-maximum-69-number](https://github.com/monishasundaram/Leet-code/tree/master/1323-maximum-69-number) |
