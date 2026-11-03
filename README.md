@@ -38,6 +38,7 @@ Happy Coding! 🚀
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/monishasundaram/Leet-code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/monishasundaram/Leet-code/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/monishasundaram/Leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/monishasundaram/Leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/monishasundaram/Leet-code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/monishasundaram/Leet-code/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -94,6 +95,7 @@ Happy Coding! 🚀
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishasundaram/Leet-code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/monishasundaram/Leet-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3524-find-x-value-of-array-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/monishasundaram/Leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/monishasundaram/Leet-code/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/monishasundaram/Leet-code/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3875-construct-uniform-parity-array-i) |
