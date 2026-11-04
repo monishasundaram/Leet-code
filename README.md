@@ -20,6 +20,7 @@ Happy Coding! 🚀
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/monishasundaram/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishasundaram/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monishasundaram/Leet-code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/monishasundaram/Leet-code/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/monishasundaram/Leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/monishasundaram/Leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monishasundaram/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -284,6 +285,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/monishasundaram/Leet-code/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monishasundaram/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/monishasundaram/Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/monishasundaram/Leet-code/tree/master/3665-twisted-mirror-path-count) |
