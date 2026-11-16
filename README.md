@@ -146,6 +146,7 @@ Happy Coding! 🚀
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/monishasundaram/Leet-code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1688-count-of-matches-in-tournament](https://github.com/monishasundaram/Leet-code/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/monishasundaram/Leet-code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/monishasundaram/Leet-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/monishasundaram/Leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
@@ -158,6 +159,7 @@ Happy Coding! 🚀
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/monishasundaram/Leet-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/monishasundaram/Leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/monishasundaram/Leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/monishasundaram/Leet-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/monishasundaram/Leet-code/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/monishasundaram/Leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/monishasundaram/Leet-code/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
