@@ -128,6 +128,7 @@ Happy Coding! 🚀
 | [0148-sort-list](https://github.com/monishasundaram/Leet-code/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/monishasundaram/Leet-code/tree/master/0202-happy-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/monishasundaram/Leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/monishasundaram/Leet-code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Happy Coding! 🚀
 | [2243-calculate-digit-sum-of-a-string](https://github.com/monishasundaram/Leet-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/monishasundaram/Leet-code/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/monishasundaram/Leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/monishasundaram/Leet-code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/monishasundaram/Leet-code/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/monishasundaram/Leet-code/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/monishasundaram/Leet-code/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -177,6 +179,7 @@ Happy Coding! 🚀
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/monishasundaram/Leet-code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monishasundaram/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/monishasundaram/Leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/monishasundaram/Leet-code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3524-find-x-value-of-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/monishasundaram/Leet-code/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/monishasundaram/Leet-code/tree/master/3693-climbing-stairs-ii) |
