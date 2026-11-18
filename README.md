@@ -18,6 +18,7 @@ Happy Coding! 🚀
 | [0384-shuffle-an-array](https://github.com/monishasundaram/Leet-code/tree/master/0384-shuffle-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/monishasundaram/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/monishasundaram/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/monishasundaram/Leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishasundaram/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monishasundaram/Leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/monishasundaram/Leet-code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -114,6 +115,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/monishasundaram/Leet-code/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/monishasundaram/Leet-code/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/monishasundaram/Leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishasundaram/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monishasundaram/Leet-code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/monishasundaram/Leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -136,6 +138,7 @@ Happy Coding! 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/monishasundaram/Leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monishasundaram/Leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/monishasundaram/Leet-code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monishasundaram/Leet-code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
