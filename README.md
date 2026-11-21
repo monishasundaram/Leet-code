@@ -40,6 +40,7 @@ Happy Coding! 🚀
 | [3232-find-if-digit-game-can-be-won](https://github.com/monishasundaram/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishasundaram/Leet-code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/monishasundaram/Leet-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/monishasundaram/Leet-code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/monishasundaram/Leet-code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/monishasundaram/Leet-code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3524-find-x-value-of-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3524-find-x-value-of-array-i) |
@@ -125,6 +126,7 @@ Happy Coding! 🚀
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/monishasundaram/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/monishasundaram/Leet-code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishasundaram/Leet-code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/monishasundaram/Leet-code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/monishasundaram/Leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -171,6 +173,7 @@ Happy Coding! 🚀
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/monishasundaram/Leet-code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/monishasundaram/Leet-code/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/monishasundaram/Leet-code/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/monishasundaram/Leet-code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/monishasundaram/Leet-code/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/monishasundaram/Leet-code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/monishasundaram/Leet-code/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -205,12 +208,14 @@ Happy Coding! 🚀
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/monishasundaram/Leet-code/tree/master/0617-merge-two-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/monishasundaram/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/monishasundaram/Leet-code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/monishasundaram/Leet-code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/monishasundaram/Leet-code/tree/master/0617-merge-two-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/monishasundaram/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/monishasundaram/Leet-code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/monishasundaram/Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/monishasundaram/Leet-code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
