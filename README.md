@@ -19,6 +19,7 @@ Happy Coding! 🚀
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/monishasundaram/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/monishasundaram/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/monishasundaram/Leet-code/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/monishasundaram/Leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishasundaram/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monishasundaram/Leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/monishasundaram/Leet-code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -94,6 +95,7 @@ Happy Coding! 🚀
 | [0509-fibonacci-number](https://github.com/monishasundaram/Leet-code/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/monishasundaram/Leet-code/tree/master/0836-rectangle-overlap) |
 | [1323-maximum-69-number](https://github.com/monishasundaram/Leet-code/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/monishasundaram/Leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/monishasundaram/Leet-code/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monishasundaram/Leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/monishasundaram/Leet-code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -143,6 +145,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/monishasundaram/Leet-code/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/monishasundaram/Leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monishasundaram/Leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/monishasundaram/Leet-code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monishasundaram/Leet-code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -249,6 +252,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/monishasundaram/Leet-code/tree/master/0384-shuffle-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/monishasundaram/Leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
 | ------- |
@@ -394,4 +398,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/monishasundaram/Leet-code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/monishasundaram/Leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
