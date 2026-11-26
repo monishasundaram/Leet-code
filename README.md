@@ -112,6 +112,7 @@ Happy Coding! 🚀
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/monishasundaram/Leet-code/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishasundaram/Leet-code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/monishasundaram/Leet-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/monishasundaram/Leet-code/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/monishasundaram/Leet-code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3516-find-closest-person](https://github.com/monishasundaram/Leet-code/tree/master/3516-find-closest-person) |
 | [3524-find-x-value-of-array-i](https://github.com/monishasundaram/Leet-code/tree/master/3524-find-x-value-of-array-i) |
@@ -163,6 +164,7 @@ Happy Coding! 🚀
 | [1688-count-of-matches-in-tournament](https://github.com/monishasundaram/Leet-code/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/monishasundaram/Leet-code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/monishasundaram/Leet-code/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/monishasundaram/Leet-code/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/monishasundaram/Leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
