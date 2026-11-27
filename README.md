@@ -59,6 +59,7 @@ Happy Coding! 🚀
 | [3903-smallest-stable-index-i](https://github.com/monishasundaram/Leet-code/tree/master/3903-smallest-stable-index-i) |
 | [3934-smallest-unique-subarray](https://github.com/monishasundaram/Leet-code/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/monishasundaram/Leet-code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/monishasundaram/Leet-code/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Happy Coding! 🚀
 | [3665-twisted-mirror-path-count](https://github.com/monishasundaram/Leet-code/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/monishasundaram/Leet-code/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/monishasundaram/Leet-code/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/monishasundaram/Leet-code/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Happy Coding! 🚀
 | [2567-minimum-score-by-changing-two-elements](https://github.com/monishasundaram/Leet-code/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/monishasundaram/Leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/monishasundaram/Leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/monishasundaram/Leet-code/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Breadth-First Search
 |  |
 | ------- |
